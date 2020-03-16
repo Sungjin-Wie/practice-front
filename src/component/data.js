@@ -13,7 +13,8 @@ import {
   CardContent
 } from "@material-ui/core";
 
-const url = "http://localhost:4000/api";
+// const url = "http://localhost:4000/api";
+const url = "http://sungjin.herokuapp.com/api";
 
 
 
