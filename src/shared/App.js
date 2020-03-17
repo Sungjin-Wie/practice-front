@@ -1,7 +1,10 @@
 import React from "react";
 import { Route } from "react-router-dom";
-import { Home, About, Data } from "../component";
-import { Tabs, AppBar, TabPan } from "@material-ui/core";
+import { About } from "../component/about";
+import { Home } from "../component/home";
+import { Data } from "../component/board";
+
+
 const App = () => {
   return (
     <div>
