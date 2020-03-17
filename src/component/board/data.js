@@ -2,7 +2,7 @@ import React from "react";
 // import useRequest from "./request";
 import useAxios from "axios-hooks";
 import { Link } from "react-router-dom";
-import Base64 from "../../utility";
+import Base64 from "utility";
 import { makeStyles } from "@material-ui/core/styles";
 import {
   Grid,

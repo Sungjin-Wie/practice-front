@@ -1,8 +1,8 @@
 import React from "react";
 import { Route } from "react-router-dom";
-import { About } from "../component/about";
-import { Home } from "../component/home";
-import { Data } from "../component/board";
+import { About } from "component/about";
+import { Home } from "component/home";
+import { Data } from "component/board";
 
 
 const App = () => {
